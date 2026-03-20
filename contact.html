@@ -271,10 +271,6 @@ function toggleMenu() {
 window.addEventListener('scroll', () => {
   document.getElementById('mainNav').classList.toggle('scrolled', window.scrollY > 20);
 });
-function handleSubmit(btn) {
-  btn.textContent = '\u2713 Message Sent!';
-  btn.style.background = 'var(--teal)';
-  setTimeout(() => { btn.textContent = 'Send Message \u2192'; btn.style.background = ''; }, 3500);
 }
 (function() {
   const logo = document.querySelector('.site-logo');
