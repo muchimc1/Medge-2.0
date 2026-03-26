@@ -78,6 +78,6 @@ The contact form currently uses a simulated submit. To make it functional, integ
 ## 📞 Contact
 
 - **Phone:** +260 777 444 104
-- **Email:** hello@medge.co.zm
+- **Email:** info@medge.co.zm
 - **LinkedIn:** [linkedin.com/company/medgezm](https://www.linkedin.com/company/medgezm/)
-- **Location:** Chalala, Lusaka, Zambia
+- **Location:** Lusaka, Zambia
